@@ -15,8 +15,7 @@ interface Props {
   hasShow: boolean;
 }
 
-class CreateAd extends React.Component<Props> {
-  //   state = new Property();
+class CreateAd extends React.Component<Props> { 
   initialState = {
     SellingPrice: 0,
     BaseValue: 0,
