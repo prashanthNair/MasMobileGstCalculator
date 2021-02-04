@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "268585853284",
+    "firebase_url": "https://pelagic-garage-284807.firebaseio.com",
+    "project_id": "pelagic-garage-284807",
+    "storage_bucket": "pelagic-garage-284807.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268585853284:android:8f0e0f1ffdf4d6ca255a71",
+        "android_client_info": {
+          "package_name": "com.masmobile.masmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268585853284-6hchc8o3j5rqf7sq015t3vcfuifgqlsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaJ7Gz1fVVM2Qa3f3L8u1EpIIyF47Fajw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268585853284-6hchc8o3j5rqf7sq015t3vcfuifgqlsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
